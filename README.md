@@ -1,4 +1,4 @@
-# PinzettenFoen
+# PinzettenFön
 #
 # stl files: ready for importing to 3D printer software (slicer)
 # ipt files: original drwaings (Autodesk Inventor)
