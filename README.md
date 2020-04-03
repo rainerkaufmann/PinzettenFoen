@@ -9,12 +9,16 @@ be careful with settings of hair dryer to avoid melting parts
 <br>
 recommended settings for the model we used: heating I-II, fan I
 <br>
-measured temperature at air outlet: up to 30°C for heating I
+measured temperature at air outlet:
 <br>
-                                    up to 50°C for heating II
+up to 30°C for heating I
+<br>
+ up to 50°C for heating II
 <br><br>
-drying times: small tweezers: ~1 min
+drying times:
 <br>
-              grid box opener: 2.5-3 min
-
+small tweezers: ~1 min
+<br>
+grid box opener: 2.5-3 min
+<br><br>
 
