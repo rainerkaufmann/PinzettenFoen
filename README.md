@@ -6,14 +6,14 @@ stl files: ready for importing to 3D printer software (slicer)
 ipt files: original drawings (Autodesk Inventor)
 <br><br>
 be careful with settings of hair dryer to avoid melting parts
-<br>
+<br><br>
 recommended settings for the model we used: heating I-II, fan I
-<br>
+<br><br>
 measured temperature at air outlet:
 <br>
 up to 30°C for heating I
 <br>
- up to 50°C for heating II
+up to 50°C for heating II
 <br><br>
 drying times:
 <br>
