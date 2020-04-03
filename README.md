@@ -1,4 +1,5 @@
-# PinzettenFön
+# PinzettenFön (cryo-EM tools dryer)
+by Vi Quint Duong & Rainer Kaufmann
 #
 # stl files: ready for importing to 3D printer software (slicer)
 # ipt files: original drawings (Autodesk Inventor)
